@@ -115,7 +115,7 @@ An interactive grammar activity that uses game-oriented practice to help learner
 - [Source Repository](https://github.com/shahzad007-crypto/conditionals-gamified-)
 
 ### 9. Gamified Adjectives – The Alibi Detective
-
+<img src="gamified-adjectives-alibi.png" alt="Gamified Adjectives – The Alibi Detective" width="700">
 **Vocabulary and Grammar | Narrative-Based Learning**
 
 A detective-themed language activity that uses staged challenges to engage learners in adjective-related practice.
