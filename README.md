@@ -72,7 +72,7 @@ A narrative-based grammar activity in which learners work through a sequence of 
 - [Source Repository](https://github.com/shahzad007-crypto/tenses-gameperfect)
 
 ### 5. Sentence-by-Sentence Bar Chart
-
+<img src="sentence-by-sentence-bar-chart.png" alt="Sentence-by-Sentence Bar Chart" width="700">
 **Scaffolded Writing | IELTS Academic Writing Task 1**
 
 An interactive writing activity that guides learners through the process of constructing a bar-chart description sentence by sentence. It breaks a demanding writing task into manageable stages.
