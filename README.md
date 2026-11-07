@@ -79,7 +79,7 @@ An interactive writing activity that guides learners through the process of cons
 
 **Design focus:** Writing scaffolding, academic language, sentence construction, and gradual development of independent writing.
 
-- [Project Interface](https://shahzad007-crypto.github.io/sentence-by-sentence-bar-chart/)
+- [Project Interface](https://shahzad007-crypto.github.io/sentence-by-sentence-bar-chart-/)
 - [Source Repository](https://github.com/shahzad007-crypto/sentence-by-sentence-bar-chart)
 
 ### 6. IELTS Opinion Essay
