@@ -104,7 +104,7 @@ An interactive speaking-practice resource built around IELTS cue-card tasks. It 
 - [Source Repository](https://github.com/shahzad007-crypto/IELTS-cue-card-speaking-)
 
 ### 8. Conditionals Gamified
-
+<img src="conditionals-gamified.png" alt="Conditionals Gamified" width="700">
 **Gamified Grammar | Formative Assessment**
 
 An interactive grammar activity that uses game-oriented practice to help learners understand and apply English conditional structures.
