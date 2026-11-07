@@ -50,7 +50,7 @@ An interactive learning activity in which students work with survey-related lang
 - [Source Repository](https://github.com/shahzad007-crypto/Tools-students-use-)
 
 ### 3. Vocabulary Tri-Arena
-
+<img src="vocabulary-tri-arena.png" alt="Vocabulary Tri-Arena" width="700">
 **Gamified Learning | Vocabulary and Listening**
 
 A multi-stage vocabulary learning activity combining listening, quizzes, sentence construction, and interactive challenges. Game elements encourage participation and provide opportunities for repeated practice.
