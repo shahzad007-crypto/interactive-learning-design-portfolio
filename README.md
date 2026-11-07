@@ -39,7 +39,7 @@ A prototype designed to analyse handwritten student writing using multimodal AI.
 *Note: This is a prototype. A privacy-safe demonstration version should be prepared before public professional presentation. Do not use the current interface publicly if it exposes identifiable student or assessment information.*
 
 ### 2. Tools Students Use – Survey Construction Studio
-
+<img src="tools-students-use-survey-studio.png" alt="Tools Students Use – Survey Construction Studio" width="700">
 **Collaborative Learning | Language Production**
 
 An interactive learning activity in which students work with survey-related language and construct questions through guided tasks. It encourages active participation, structured language production, and collaborative learning.
