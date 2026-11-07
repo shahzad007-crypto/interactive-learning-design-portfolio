@@ -24,7 +24,7 @@ This portfolio presents selected projects that demonstrate my approach to combin
 The following projects represent my work in interactive learning design, gamification, writing development, and AI-supported assessment.
 
 ### 1. AI Diagnostic Writing Evaluator
-
+![AI Diagnostic Writing Evaluator](ai-diagnostic-writing-evaluator.png)
 **AI-Supported Assessment | IELTS/EFL Writing**
 
 A prototype designed to analyse handwritten student writing using multimodal AI. The assessment workflow combines handwritten-response analysis, rubric-based evaluation, error diagnosis, and targeted formative feedback.
