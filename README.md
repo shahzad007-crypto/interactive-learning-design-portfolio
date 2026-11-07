@@ -84,7 +84,7 @@ An interactive writing activity that guides learners through the process of cons
 
 ### 6. IELTS Opinion Essay
 
-**Writing Development | IELTS Academic Writing Task 2**
+**Writing<img src="ielts-opinion-essay.png" alt="IELTS Opinion Essay" width="700"> Development | IELTS Academic Writing Task 2**
 
 An interactive learning resource designed to support learners in developing opinion essays through structured guidance and writing practice.
 
