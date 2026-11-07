@@ -63,7 +63,7 @@ A multi-stage vocabulary learning activity combining listening, quizzes, sentenc
 ### 4. Tenses Game – The Alibi Detective
 
 **Gamified Grammar Learning | Interactive Assessment**
-
+<img src="tenses-alibi-detective.png" alt="Tenses Game – The Alibi Detective" width="700">
 A narrative-based grammar activity in which learners work through a sequence of challenges involving English tenses. The detective theme provides a context for grammar practice, feedback, and assessment.
 
 **Design focus:** Game-based learning, grammar practice, staged challenges, and diagnostic feedback.
