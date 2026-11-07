@@ -93,7 +93,7 @@ An interactive learning resource designed to support learners in developing opin
 - [Source Repository](https://github.com/shahzad007-crypto/IELTS-opinion-essay-)
 
 ### 7. IELTS Cue Card Speaking
-
+<img src="ielts-cue-card-speaking.png" alt="IELTS Cue Card Speaking" width="700">
 **Speaking Development | Guided Language Production**
 
 An interactive speaking-practice resource built around IELTS cue-card tasks. It supports learners in organising ideas and developing spoken responses through guided practice.
