@@ -126,7 +126,7 @@ A detective-themed language activity that uses staged challenges to engage learn
 - [Source Repository](https://github.com/shahzad007-crypto/gamified-adjectives)
 
 ### 10. Aeroplane Vocabulary Game
-
+<img src="aeroplane-vocabulary-game.png" alt="Aeroplane Vocabulary Game" width="700">
 **Gamified Vocabulary | Interactive Practice**
 
 A game-based vocabulary activity that places language practice within an aviation-themed experience. It aims to make vocabulary learning more engaging through interactive tasks.
