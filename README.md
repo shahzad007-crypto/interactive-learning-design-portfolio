@@ -26,7 +26,7 @@ The following projects represent my work in interactive learning design, gamific
 ### 1. AI Diagnostic Writing Evaluator
 <img src="ai-diagnostic-writing-evaluator.png" alt="AI Diagnostic Writing Evaluator" width="700">
 **AI-Supported Assessment | IELTS/EFL Writing**
-
+**Teacher-designed workflow:** The evaluator reflects a classroom assessment process developed around students' handwritten writing. It uses AI-supported analysis to identify writing difficulties, evaluate responses against assessment criteria, and provide diagnostic feedback to guide further learning. The teacher remains responsible for interpreting the feedback and making pedagogical decisions.
 A prototype designed to analyse handwritten student writing using multimodal AI. The assessment workflow combines handwritten-response analysis, rubric-based evaluation, error diagnosis, and targeted formative feedback.
 
 **Design focus:** AI-supported assessment, writing diagnosis, formative feedback, and teacher decision-making.
