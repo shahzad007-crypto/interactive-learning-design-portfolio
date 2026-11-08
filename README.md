@@ -139,15 +139,14 @@ A game-based vocabulary activity that places language practice within an aviatio
 
 ## Research & Design Interests
 
-My practical teaching and design work has encouraged me to explore the following areas:
+My practical teaching and design work has encouraged me to explore the following areas
 
-- **Human–AI collaboration in education:** Exploring how AI can support teachers without replacing their pedagogical judgement.
-- **Adaptive learning design:** Investigating how learning activities and scaffolding can respond to learner needs and performance.
-- **AI-supported assessment:** Exploring the use of multimodal AI for analysing student writing and generating formative feedback.
-- **Gamification in language education:** Designing meaningful game-based activities that connect engagement with learning objectives.
-- **Representation of teacher expertise:** Exploring how teachers' knowledge of learning objectives, learner difficulties, scaffolding, and activity selection can inform AI-supported educational systems.
-- **Interactive learning environments:** Developing digital activities that encourage active participation and independent practice.
-
+- **Human–AI learning design:** exploring how teachers can use AI to support interactive and adaptive learning activities while retaining pedagogical control.
+- **Interactive EFL learning:** designing technology-supported activities that move learners from controlled practice toward independent language production.
+- **AI-supported formative assessment:** using AI to analyse learner writing and provide diagnostic feedback that can support teacher decision-making.
+- **Gamification and learning activities:** investigating how game mechanics, interaction, feedback, and classroom activity design can support learner engagement and practice.
+- **Teacher expertise and AI:** exploring how teachers' pedagogical knowledge can be represented and used in AI-supported learning environments.
+- **Adaptive learning:** examining how learner performance, activity characteristics, and teacher responses can inform more responsive learning experiences in higher education.
 ---
 
 ## Design Approach
