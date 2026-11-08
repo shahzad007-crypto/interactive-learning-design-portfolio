@@ -9,13 +9,11 @@ Higher Education | English Language Teaching | Interactive Learning | Gamificati
 
 ## About Me
 
-I am a university English language lecturer with over 25 years of teaching experience, currently working in higher education in Oman.
+I am a university English lecturer and interactive learning designer with 25+ years of experience in higher education and EFL teaching. My current work focuses on designing interactive, gamified, and AI-supported learning activities that address practical classroom needs.
 
-My professional interests focus on the design of interactive, technology-supported learning experiences that address practical challenges in language education.
+I combine classroom experience with emerging technologies to develop learning interfaces, digital activities, formative assessment tools, and AI-supported feedback workflows. My approach is teacher-led: technology is used to support pedagogical decisions, learner practice, feedback, and engagement rather than to replace the teacher.
 
-Drawing on my classroom experience, I develop digital learning activities, gamified exercises, scaffolded writing tasks, interactive presentations, and assessment tools. My work explores how technology and artificial intelligence can support language learning while keeping teachers actively involved in pedagogical decisions.
-
-This portfolio presents selected projects that demonstrate my approach to combining teaching experience, instructional design, and emerging educational technologies.
+My portfolio demonstrates practical work in interactive learning design, gamification, AI-supported assessment, and technology-enhanced EFL teaching. I am particularly interested in how teachers can use AI and adaptive technologies to create more responsive and meaningful learning experiences in higher education..
 
 ---
 
