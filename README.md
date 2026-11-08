@@ -21,6 +21,15 @@ My portfolio demonstrates practical work in interactive learning design, gamific
 
 The following projects represent my work in interactive learning design, gamification, writing development, and AI-supported assessment.
 
+
+### What I Bring
+
+- **25+ years of higher-education and EFL teaching experience**, providing a strong understanding of learner needs, classroom constraints, assessment, and teacher decision-making.
+- **Practical learning-design experience**, demonstrated through interactive HTML activities, games, guided writing tasks, speaking activities, and digital learning interfaces.
+- **AI-supported educational practice**, including multimodal writing analysis, diagnostic feedback, and AI-assisted learning workflows.
+- **Teacher-led technology integration**, with technology selected and designed around pedagogical goals rather than technology alone.
+- **A developing research focus on Human–AI learning**, particularly adaptive interactive activities, teacher expertise, AI-supported assessment, and gamification in higher education.
+
 ### 1. AI Diagnostic Writing Evaluator
 <img src="ai-diagnostic-writing-evaluator.png" alt="AI Diagnostic Writing Evaluator" width="700">
 **AI-Supported Assessment | IELTS/EFL Writing**
