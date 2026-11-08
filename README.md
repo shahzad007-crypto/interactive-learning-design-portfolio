@@ -15,7 +15,18 @@ I combine classroom experience with emerging technologies to develop learning in
 
 My portfolio demonstrates practical work in interactive learning design, gamification, AI-supported assessment, and technology-enhanced EFL teaching. I am particularly interested in how teachers can use AI and adaptive technologies to create more responsive and meaningful learning experiences in higher education..
 
+---## Research & Design Interests
+
+My practical teaching and design work has encouraged me to explore the following areas
+
+- **Human–AI learning design:** exploring how teachers can use AI to support interactive and adaptive learning activities while retaining pedagogical control.
+- **Interactive EFL learning:** designing technology-supported activities that move learners from controlled practice toward independent language production.
+- **AI-supported formative assessment:** using AI to analyse learner writing and provide diagnostic feedback that can support teacher decision-making.
+- **Gamification and learning activities:** investigating how game mechanics, interaction, feedback, and classroom activity design can support learner engagement and practice.
+- **Teacher expertise and AI:** exploring how teachers' pedagogical knowledge can be represented and used in AI-supported learning environments.
+- **Adaptive learning:** examining how learner performance, activity characteristics, and teacher responses can inform more responsive learning experiences in higher education.
 ---
+
 
 ## Featured Projects
 
@@ -146,17 +157,6 @@ A game-based vocabulary activity that places language practice within an aviatio
 
 ---
 
-## Research & Design Interests
-
-My practical teaching and design work has encouraged me to explore the following areas
-
-- **Human–AI learning design:** exploring how teachers can use AI to support interactive and adaptive learning activities while retaining pedagogical control.
-- **Interactive EFL learning:** designing technology-supported activities that move learners from controlled practice toward independent language production.
-- **AI-supported formative assessment:** using AI to analyse learner writing and provide diagnostic feedback that can support teacher decision-making.
-- **Gamification and learning activities:** investigating how game mechanics, interaction, feedback, and classroom activity design can support learner engagement and practice.
-- **Teacher expertise and AI:** exploring how teachers' pedagogical knowledge can be represented and used in AI-supported learning environments.
-- **Adaptive learning:** examining how learner performance, activity characteristics, and teacher responses can inform more responsive learning experiences in higher education.
----
 
 ## Design Approach
 
